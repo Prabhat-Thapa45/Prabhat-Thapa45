@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://cdn.iconscout.com/icon/free/png-256/coding-581-896297.png">
-
 
 # :wave: Hi, I'm Prabhat Thapa :sunglasses: 
 :
@@ -23,6 +21,22 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 :fire: I work with: 
 
 - :computer: Python, AzureDevOps and NextJs.
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "C"],
+    askMeAbout: ["python", "AzureDevOps, "Web-dev", "CI/CD", "Music/Guitar", "Football"],
+    technologies: {
+        backEnd: ["flask", "django", "Next-Js"]
+        devOps: ["Azure", "Docker🐳", "Biceps", "Nginx"],
+        databases: ["MySql", "sqlite"],
+        misc: ["data-analysis", "react-js", "c++", "java"],
+    },
+    currentFocus: "Next-js and azure devops",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 if you like what I do, maybe consider buying me a beer or coffee beer preferably 🥺👉👈
 
