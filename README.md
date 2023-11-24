@@ -24,6 +24,10 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 
 - :computer: Python, AzureDevOps and NextJs.
 
+if you like what I do, maybe consider buying me a beer 🥺👉👈
+
+<a href="[https://www.buymeacoffee.com/abhisheknaiidu](https://www.buymeacoffee.com/prabhatdevv)" target="_blank"><img src="[https://cdn.buymeacoffee.com/buttons/v2/default-red.png](https://cdn.dribbble.com/users/21607/screenshots/2514380/media/cbe1fe8273e45387a3ca08ffa89dab35.jpg?resize=800x600&vertical=center)" alt="Buy Me A Beer" width="150" ></a>
+
 
 ## Currently
 
