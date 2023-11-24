@@ -23,7 +23,7 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 - :computer: Python, AzureDevOps and NextJs.
 
 ```javascript
-const anmol = {
+const prabhatThapa = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C"],
     askMeAbout: ["python", "AzureDevOps, "Web-dev", "CI/CD", "Music/Guitar", "Football"],
