@@ -34,7 +34,7 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
-🤓 More about my tech experiences
+🤓 More about my tech exposure
 
 ```javascript
 const prabhatThapa = {
