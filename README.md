@@ -18,7 +18,7 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 
 :gem: I love trying out new things. 
 
-:fire: My Tech Experiences: 
+:fire: My Tech Exposure: 
 
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)
