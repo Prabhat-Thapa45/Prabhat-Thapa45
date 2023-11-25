@@ -2,13 +2,13 @@
 # :wave: Hi, I'm Prabhat Thapa :sunglasses: 
 :
 
-Software Engineer :computer: | Learner :nerd_face: | Singer/Guitar :guitar: | Footballer :soccer:
+Software Engineer 💻 | Learner 🤓 | Singer/Guitar 🎸 | Footballer ⚽
 
 
  
 ## About Me 
 
-:heart: Programmer | :black_heart: Music | :blue_heart: Sports 
+🖤 Programmer | 💔 Music | 🤍 Sports 
 
 
 I am a **Software Engineer** having passion for everything related to technology.
@@ -33,6 +33,8 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+🤓 More about my tech experiences
 
 ```javascript
 const prabhatThapa = {
