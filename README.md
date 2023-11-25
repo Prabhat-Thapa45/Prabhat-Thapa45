@@ -18,9 +18,21 @@ knowledge in Data Science, Software Development, Azure DevOps, Full Stack Develo
 
 :gem: I love trying out new things. 
 
-:fire: I work with: 
+:fire: My Tech Experiences: 
 
-- :computer: Python, AzureDevOps and NextJs.
+
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy?color=fff)
+![PyPI - Versions from Framework Classifiers](https://img.shields.io/pypi/frameworkversions/django/django-rest)
+
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 ```javascript
 const prabhatThapa = {
@@ -56,6 +68,6 @@ Working at **TCS, Banglore :dizzy:	, India :india:** as a **Software Engineer**.
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=facebook&logoColor=red&style=flat-square&url=https://www.reddit.com/user/FatChicken277)](https://www.facebook.com/profile.php?id=100069528476636)
 
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Prabhat-Thapa45&count_private=true&show_icons=true" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Prabhat-Thapa45&theme=github-light"/>
+![Prabhat-Thapa45's github stats](https://github-readme-stats.vercel.app/api?username=Prabhat-Thapa45&show_icons=true&theme=radical)
+![Prabhat-Thapa45's github Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabhat-Thapa45&theme=radical&border_radius=4.3)
