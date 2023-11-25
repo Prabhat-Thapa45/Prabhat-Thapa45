@@ -72,4 +72,4 @@ Working at **TCS, Banglore :dizzy:	, India :india:** as a **Software Engineer**.
 
 
 ![Prabhat-Thapa45's github stats](https://github-readme-stats.vercel.app/api?username=Prabhat-Thapa45&show_icons=true&theme=radical)
-![Prabhat-Thapa45's github Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabhat-Thapa45&theme=radical&border_radius=4.3)
+![Prabhat-Thapa45's github Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabhat-Thapa45&theme=radical&border_radius=4.3&card_width=465))
