@@ -1,5 +1,5 @@
 
-# :wave: Hi, I'm Prabhat Thapa :sunglasses: 
+# 👋 Hi, I'm Prabhat Thapa 😎 
 :
 
 Software Engineer 💻 | Learner 🤓 | Singer/Guitar 🎸 | Footballer ⚽
